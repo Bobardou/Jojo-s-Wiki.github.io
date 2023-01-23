@@ -1,0 +1,32 @@
+.div{
+    color: #C63AE1;
+    position: relative;
+    top: 5vw;
+    right: 50px;
+}
+
+.div h1{
+    font-size: 50px;
+    text-shadow: 0px 0px 10px #000000;
+}
+
+.div button{
+    height: 50px;
+    width: 200px;
+    background-color: #E8E2FD;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.div button:hover{
+    background-color: #C63AE1;
+    color: white;
+}
+
+.div img{
+    display: block;
+    position: relative;
+    left: 40vw;
+}

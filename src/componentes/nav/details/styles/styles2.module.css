@@ -1,0 +1,53 @@
+:root{
+    color: white;
+}
+
+.div{
+    display: inline-block;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin: 100px;
+}
+
+.stand{
+    background-color: #c53ae191;
+    width: 500px;
+    height: 720px;
+    border-radius: 20px;
+}
+
+.stand img{
+    background-color: white;
+    border-end-end-radius: 20px;
+    border-end-start-radius: 20px ;
+    position: relative;
+    top: 87px;
+    width: 500px;
+    height: 503px;
+    object-fit: contain;
+}
+
+.stand h3{
+    background-color: #8968CD;
+}
+
+.user{
+    background-color: #c53ae191;
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.user img{
+    background-color: white;
+    border-end-end-radius: 20px;
+    border-end-start-radius: 20px ;
+    width: 500px;
+    height: 500px;
+    object-fit: contain;
+}
+
+.user h3{
+    background-color: #8968CD;
+}

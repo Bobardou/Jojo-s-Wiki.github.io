@@ -1,0 +1,51 @@
+.div{
+    background-color: #C63AE1;
+    width: 500px;
+    height: 650px;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.div .img{
+    width: 200px;
+    background-color: whitesmoke ;
+    border-radius: 9999rem;
+    height: 200px;
+    object-fit: contain;
+    position: relative;
+    bottom: 5vw;
+}
+
+.back{
+    height: auto;
+    width: 500px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px ;
+}
+
+div .h1{
+    position: relative;
+    bottom: 5vw;
+    background-color: #8968CD;
+    color: white;
+}
+
+div .h3{
+    position: relative;
+    bottom: 5vw;
+    color: white;
+}
+
+.button{
+    background-color: #8968CD;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    position: relative;
+    bottom: 5vw;
+    cursor: pointer;
+}
