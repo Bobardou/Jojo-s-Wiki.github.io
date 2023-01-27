@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jojos/static/css/main.85e58427.css",
+    "main.js": "/jojos/static/js/main.e1774c5d.js",
+    "static/media/Captura.PNG": "/jojos/static/media/Captura.4c335570c8370a042b1b.PNG",
+    "index.html": "/jojos/index.html",
+    "main.85e58427.css.map": "/jojos/static/css/main.85e58427.css.map",
+    "main.e1774c5d.js.map": "/jojos/static/js/main.e1774c5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85e58427.css",
+    "static/js/main.e1774c5d.js"
+  ]
+}
